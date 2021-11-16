@@ -1,0 +1,45 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Engineering"
+    ],
+    [
+      "Science"
+    ],
+    [
+      "Social Science",
+      "Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "f6f1005e-3478-bdfa-e890-76bc32ef64ae",
+      "9b61537f-24c2-041b-763e-343e40055ebf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "DV Lab: Documenting Science Through Video and New Media",
+  "course_description": "This course is an introductory exploration of documentary film theory and production, focusing on documentaries about science, engineering, and related fields. Students engage in digital video production as well as social and media analysis of science documentaries. Readings are drawn from social studies of science as well as from documentary film theory. The courses uses documentary video making as a tool to explore the worlds of science and engineering, as well as a tool for thinking analytically about media itself and the social worlds in which science is embedded. The course includes a hands-on lab component devoted to digital video production, in addition to classroom lectures and in-class film screenings.\n",
+  "department_numbers": [
+    "21A",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.064J",
+  "primary_course_number": "21A.550J",
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Lecture Videos",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
